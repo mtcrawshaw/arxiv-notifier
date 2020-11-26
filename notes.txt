@@ -1,0 +1,6 @@
+Road Map
+
+--> Get new papers from arXiv
+    Store last arXiv pull and refresh since last pull
+    Filter papers by given list of authors
+    Dump these papers to Google Drive
